@@ -46,7 +46,7 @@ Bike utilization could potentially be one of the more useful graphs. We can spot
 
 ### Top Ending Locations
 
-The Bike Utilization and Top Ending Locations can tied together. We will want to tie the ending location to high use bikes for maintenance vehicles. We can identify the needed changes, send the locations to the drivers, and rotate bikes for maintenance. 
+The Bike Utilization and Top Ending Locations can be tied together. We will want to tie the ending location to high use bikes for maintenance vehicles. We can identify the needed changes, send the locations to the drivers, and rotate bikes for maintenance. 
 
 ![image](https://github.com/ScottyMacCVC/bikesharing/blob/main/images/2-Top%20Ending%20Locations.JPG)
 
